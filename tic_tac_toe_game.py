@@ -2,7 +2,7 @@
 CSE 210 W01 Prove: Developer
 Camila Apai
 """
-def main():
+def main(): 
     print("Welcome to the Tic-Tac-Toe game!")
     board = create_board()
     player = next_player("")
